@@ -44,6 +44,10 @@ class Boggle():
 
         return result
 
+
+# --------------------------------------------------------------------------------------
+
+
     def find_from(self, board, word, y, x, seen):
         """Can we find a word on board, starting at x, y?"""
 
